@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+![Vitor4393's Stats](https://github-readme-stats.vercel.app/api?username=Vitor4393&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
+
+![Vitor4393's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitor4393&theme=slateorange&hide_border=true)
+
+![Vitor4393's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor4393&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **Vitor4393/Vitor4393** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
